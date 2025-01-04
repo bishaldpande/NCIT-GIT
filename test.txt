@@ -1,3 +1,5 @@
 This is a test file
 
 my new line
+
+my second new line
